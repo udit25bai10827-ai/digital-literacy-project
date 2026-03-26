@@ -2,9 +2,13 @@
 
 
 👨‍🎓 Student Details
+
 Name: Udit Sharma
+
 Registration Number: 25BAI102827
+
 Branch: CSE (AI & ML), 1st Year
+
 GitHub Username: udit25bai10827-ai
 
 
@@ -50,17 +54,25 @@ digital-literacy-project/
 │
 └── task-5-cybercrime/
 
+
+
 🧩 Task Summaries
+
+
 
 🖼️ Task 1: Digital Literacy Infographic
 
 Created a visual infographic to explain the concept of digital literacy, including safe internet practices, useful tools, and professional online presence.
 This task helped in understanding how to present information in a clear and visually engaging format.
 
+
+
 🌐 Task 2: Student Digital Portfolio
 
 Developed a professional digital presence by setting up profiles on platforms like GitHub and LinkedIn.
 This task highlights the importance of building an online identity for academic and career growth.
+
+
 
 💻 Task 3: Coding & Collaboration Platforms
 
@@ -70,62 +82,68 @@ Also created a Digital Literacy Awareness Quiz using Google Forms.
 🔗 Google Form Link:
 https://docs.google.com/forms/d/e/1FAIpQLSdE07DJB-6BNI5FP26ck1ZfvFNgzdRznRVNEITIgB-qRtl0Lw/viewform?usp=header
 
+
+
 📧 Task 4: Email Etiquette & Communication
 
 Drafted professional emails and created a checklist of do’s and don’ts for social media usage.
 This task improved understanding of formal communication in academic and professional environments.
+
+
 
 🔐 Task 5: Cybercrime Awareness (UPI Fraud)
 
 Conducted a case study on UPI Fraud, explaining how such scams occur and how users can protect themselves.
 Also created a prevention checklist to promote safe digital practices among students.
 
+
+
 🎯 Key Learnings
 
-Importance of digital literacy in everyday life
+**Importance of digital literacy in everyday life
 
-Building a professional online presence
+**Building a professional online presence
 
-Basics of coding platforms and collaboration tools
+**Basics of coding platforms and collaboration tools
 
-Writing effective and professional emails
+**Writing effective and professional emails
 
-Awareness of cyber threats and prevention methods
+**Awareness of cyber threats and prevention methods
 
 
 🛠️ Tools & Platforms Used
 
-Canva 
+***Canva 
 
-GitHub
+***GitHub
 
-Google Forms
+***Google Forms
 
-Coding Platforms (HackerRank)
+***Coding Platforms (HackerRank)
 
-LinkedIn
+***LinkedIn
 
 
 📊 Evaluation Criteria
 
 This project is evaluated based on:
 
-Task completion and quality
+**Task completion and quality
 
-Repository structure
+**Repository structure
 
-Professional presentation
+**Professional presentation
 
-Practical understanding of digital tools
+**Practical understanding of digital tools
 
 
 📜 License
 
-This project is created for academic purposes as part of coursework at VIT Bhopal University.
+***This project is created for academic purposes as part of coursework at VIT Bhopal University.
 
 ⭐ Final Note
 
-This repository represents my journey in developing essential digital skills and understanding the importance of responsible and effective use of technology.
+***This repository represents my journey in developing essential digital skills and understanding the importance of responsible and effective use of technology.
 
 🚀 How to Run / View This Project
 
